@@ -93,7 +93,7 @@ header{
 
 .card ul li + li{
   padding-top: 24px;
-  border-top: 1px solid #323238;
+  border-top: 1px solid var(--color-border);
 
 }
 
